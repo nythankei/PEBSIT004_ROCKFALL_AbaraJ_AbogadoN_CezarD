@@ -85,5 +85,5 @@ This may take several minutes the first time.
 
 ## **Date of Final Commit / Release**
 
-**September 25, 2025**
+**November 25, 2025**
 
