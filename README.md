@@ -33,7 +33,7 @@
 ### **Download the Game Build**
 
 Get the ZIP file from:
-------> **GitHub Repository – Rockfall Releases**
+------> **GitHub Repository – [Rockfall Releases**](https://github.com/nythankei/PEBSIT004_ROCKFALL_AbaraJ_AbogadoN_CezarD/releases/download/rockfall/Rockfall.zip)
 
 ### **Extract the ZIP File**
 
