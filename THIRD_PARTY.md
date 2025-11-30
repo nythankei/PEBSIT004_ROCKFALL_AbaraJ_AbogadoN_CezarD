@@ -36,5 +36,4 @@ Video edits, promotional material, and gameplay recordings used in documentation
 * **License:** Content exported from CapCut follows CapCut’s Terms of Service, especially regarding template usage and copyrighted audio.
 
 ---
-✅ add Unity assets, sound effects, free icons, or any other tools you used
-Just tell me!
+
