@@ -11,6 +11,7 @@ This project incorporates learning materials, examples, and reference code from 
 **Title:** *Mobile Game Development with Unity*
 **Authors:** Jon Manning and Paris Buttfield-Addison
 **Publisher:** O’Reilly Media
+
 **ISBN:** 978-1491999153
 **Source:** [https://www.oreilly.com/library/view/mobile-game-development/9781491999146/](https://www.oreilly.com/library/view/mobile-game-development/9781491999146/)
 
