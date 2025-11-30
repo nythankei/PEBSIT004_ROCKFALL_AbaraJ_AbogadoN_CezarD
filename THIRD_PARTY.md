@@ -1,4 +1,4 @@
-Here is your **updated Third-Party Assets and Licenses section**, including **Canva** and **CapCut** for editing resources:
+
 
 ---
 
